@@ -38,9 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MarcosRSPG/MarcosRSPG/output/snake.svg" alt="Snake animation" />
-
-###
